@@ -2,3 +2,4 @@
 data/pgcr/
 __pycache__/
 *.pyc
+data/
