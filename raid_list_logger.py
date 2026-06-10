@@ -48,6 +48,7 @@ def get_raids(char_id):
 
 
 def main():
+    os.makedirs("data", exist_ok=True)
     characters = get_characters()
     all_raids = []
 
